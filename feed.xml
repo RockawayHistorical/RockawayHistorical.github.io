@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:FE4736B1-8310-4AE1-979C-05CC246D50B8</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-09-05T01:05:38-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:2ED231A0-8AEA-4A20-8111-AE1F0541FCC2</id>
+  <title>Edmund Halsey album</title>
+  <title xmlns="urn:iweb:">Edmund Halsey album</title>
+  <in-navbar xmlns="urn:iweb:">2ED231A0-8AEA-4A20-8111-AE1F0541FCC2</in-navbar>
+  <link rel="alternate" href="Edmund_Halsey_album/Edmund_Halsey_album.html"/>
+  <updated>2014-09-05T01:05:38.001-04:00</updated>
+  <content>Edmund Halsey album</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8BBFAFB2-91E9-4B20-BDF7-6801EBE9DD2B</id>
+  <title>Allen Jenkins album-1</title>
+  <title xmlns="urn:iweb:">Allen Jenkins album-1</title>
+  <in-navbar xmlns="urn:iweb:">8BBFAFB2-91E9-4B20-BDF7-6801EBE9DD2B</in-navbar>
+  <link rel="alternate" href="Allen_Jenkins_album-1/Allen_Jenkins_album-1.html"/>
+  <updated>2014-09-05T01:05:38.002-04:00</updated>
+  <content>Allen Jenkins album-1</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7D5F9022-031E-4AFD-A140-4A8DB2B34CCC</id>
+  <title>Allen Jenkins album-2</title>
+  <title xmlns="urn:iweb:">Allen Jenkins album-2</title>
+  <in-navbar xmlns="urn:iweb:">7D5F9022-031E-4AFD-A140-4A8DB2B34CCC</in-navbar>
+  <link rel="alternate" href="Allen_Jenkins_album-2/Allen_Jenkins_album-2.html"/>
+  <updated>2014-09-05T01:05:38.003-04:00</updated>
+  <content>Allen Jenkins album-2</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0532E958-E467-44C2-A7B5-9C70A38C1228</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">0532E958-E467-44C2-A7B5-9C70A38C1228</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2014-09-05T01:05:38.004-04:00</updated>
+  <content>Welcome</content>
+ </entry>
+</feed>
